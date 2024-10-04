@@ -26,7 +26,7 @@ sudo apt-get update && sudo apt-get install nodejs -y
 
 ## Clone Repository
 ```
-git clone https://github.com/jamikoas/sonic-odyssey-bot
+git clone https://github.com/TyoManaTyoo/sonic_autotx
 cd sonic-odyssey-bot
 ```
 ```
