@@ -45,4 +45,8 @@ Ganti Dengan Private Key Wallet Solana Kalian Save CTRL X Y Enter
 ```
 npm start
 ```
+## jika kamu gagal menjalankan via pc dengan npm start
+```
+node ~/sonic_autotx/index.js
+```
 
