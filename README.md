@@ -27,8 +27,8 @@ sudo apt-get update && sudo apt-get install nodejs -y
 
 ## Clone Repository
 ```
-git clone https://github.com/TyoManaTyoo/sonic_autotx
-cd sonic_autotx
+git clone https://github.com/TyoManaTyoo/sonic_devnet
+cd sonic_devnet
 ```
 ```
 npm install
@@ -47,6 +47,6 @@ npm start
 ```
 ## jika kamu gagal menjalankan via pc dengan npm start
 ```
-node ~/sonic_autotx/index.js
+node ~/sonic_devnet/index.js
 ```
 
