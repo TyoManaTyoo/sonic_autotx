@@ -79,7 +79,7 @@ function displayHeader() {
     randomAddresses
   );
 
-  const amountToSend = 0.001;
+  const amountToSend = 0.0000001;
 
   for (const [index, seedOrKey] of seedPhrasesOrKeys.entries()) {
     let fromKeypair;
