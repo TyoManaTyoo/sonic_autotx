@@ -66,7 +66,7 @@ function displayHeader() {
     throw new Error(colors.red('Invalid input method selected'));
   }
 
-  const addressCount = 105;
+  const addressCount = 130;
 
   if (isNaN(addressCount) || addressCount <= 0) {
     throw new Error(colors.red('Invalid number of addresses specified'));
