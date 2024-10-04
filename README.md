@@ -1,4 +1,4 @@
-# sonic odyssey bot auto tx
+# sonic odyssey bot auto tx (devnet)
 
 Donate and Support : Ebo66e4CePXiGSeh5z21nnFtTHVMuSRwFm8WbjrCAJzM
 
@@ -10,7 +10,7 @@ Sonic Odyssey Testnet (Solana L2 EVM)
 
 ➖ Import your Pk Solana Wallet
 
-➖ Open Link :  https://odyssey.sonic.game/?join=dZyOSB
+➖ Open Link :  https://odyssey.sonic.game/?join=PdMKiY
 
 ➖ Connect Wallet and Complete Task
 
@@ -27,7 +27,7 @@ sudo apt-get update && sudo apt-get install nodejs -y
 ## Clone Repository
 ```
 git clone https://github.com/TyoManaTyoo/sonic_autotx
-cd sonic-odyssey-bot
+cd sonic_autotx
 ```
 ```
 npm install
