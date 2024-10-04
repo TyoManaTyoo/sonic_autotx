@@ -1,6 +1,6 @@
-# sonic odyssey bot tx daily Generate 130 New Address dan Send Token to Address
+# sonic odyssey bot auto tx
 
-Donate and Support : 0xde260429ef7680c7a43e855b5fcf619948f34e2a
+Donate and Support : Ebo66e4CePXiGSeh5z21nnFtTHVMuSRwFm8WbjrCAJzM
 
 ## Register Account
 
@@ -14,7 +14,7 @@ Sonic Odyssey Testnet (Solana L2 EVM)
 
 ➖ Connect Wallet and Complete Task
 
-## Install Node Js (Jika Belon)
+## Install Node Js (Jika Belom)
 
 ```
 sudo apt-get update && sudo apt-get install -y ca-certificates curl gnupg
